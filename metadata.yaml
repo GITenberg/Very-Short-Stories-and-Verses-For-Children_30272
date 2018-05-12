@@ -1,0 +1,34 @@
+_repo: Very-Short-Stories-and-Verses-For-Children_30272
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Campbell, Edith
+    gutenberg_agent_id: '34478'
+    url: http://www.gutenberg.org/2009/agents/34478
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clifford, W. K., Mrs.
+    aliases:
+    - Clifford, Mrs. W. K.
+    - Clifford, Lucy Lane
+    deathdate: 1929
+    gutenberg_agent_id: '34477'
+    url: http://www.gutenberg.org/2009/agents/34477
+description: ''
+gutenberg_issued: '2009-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, English'
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry, English'
+title: Very Short Stories and Verses For Children
+url: http://www.gutenberg.org/ebooks/30272
